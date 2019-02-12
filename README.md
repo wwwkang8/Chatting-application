@@ -1,24 +1,7 @@
-# README
+# 레일즈 기반 채팅 프로그램
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+기술 스택
+  - Ruby
+  - Rails
+  - Semantic UI
+  - ActionCable 웹소켓

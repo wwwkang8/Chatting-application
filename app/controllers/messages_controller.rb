@@ -20,4 +20,8 @@ class MessagesController < ApplicationController
     render(partial: 'message', locals: {message: message})
   end
 
+  def to_s
+    @message.to_s
+  end
+
 end
